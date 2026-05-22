@@ -1,0 +1,17 @@
+{
+  "platform": "RAGFlow",
+  "configuration": "Config A - Permissive (Out-of-Box Defaults)",
+  "chat_model": "Llama 3.2 (3B) via Ollama 0.1.23",
+  "embedder": "Nomic-embed-text",
+  "similarity_threshold": 0.2,
+  "vector_similarity_weight": 0.8,
+  "top_n_retrieval": 10,
+  "temperature": 0.8,
+  "top_p": 1.0,
+  "presence_penalty": 0.2,
+  "frequency_penalty": 0.3,
+  "max_tokens": 20000,
+  "chunking_tokens": 1000,
+  "overlap_percent": 20,
+  "vector_database": "FAISS 1.7.4"
+}

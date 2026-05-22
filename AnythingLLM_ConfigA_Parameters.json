@@ -1,0 +1,19 @@
+{
+  "platform": "AnythingLLM",
+  "configuration": "Config A - Permissive (Out-of-Box Defaults)",
+  "chat_model": "Llama 3.2 (3B) via Ollama 0.1.23",
+  "embedder": "all-MiniLM-L6-v2",
+  "similarity_threshold": 0.2,
+  "vector_similarity_weight": 0.8,
+  "top_n_retrieval": 10,
+  "top_k": 10,
+  "reranker": "bge-rerank-base",
+  "temperature": 0.8,
+  "top_p": 1.0,
+  "presence_penalty": 0.2,
+  "frequency_penalty": 0.3,
+  "max_tokens": 20000,
+  "chunking_tokens": 1000,
+  "overlap_percent": 20,
+  "vector_database": "Chroma DB 0.4.15"
+}
