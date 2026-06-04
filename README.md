@@ -16,12 +16,14 @@ Universal Health Coverage Intelligence in LMIC Nations**
 
 | Folder | Contents |
 |--------|----------|
-| `manuscript/` | Title page, main manuscript (v16, 22 May 2025), supplementary, checklists |
+| Title page /', Title page with Authors Details, CRedit Authorship Details |
+|`manuscript/` | , main manuscript (v16, 22 May 2025), supplementary, checklists |
 | `appendix/` | System prompt specifications (Appendix 1) |
 | `data/` | Query-response logs (CSV); knowledge base document index |
 | `config/` | Full parameter files for Config A and Config B (RAGFlow + AnythingLLM) |
 | `docker/` | Docker installation scripts for full reproducibility |
 | `figures/` | All manuscript figures (high-resolution TIFF 300 /600 DPI) |
+| 'Additional Supplementary/' | Details of PRISMA Framework, Concetual Theoretical Analysis, Experimental analysis, Statistical Analysis, and reproducbility | 
 
 ---
 
