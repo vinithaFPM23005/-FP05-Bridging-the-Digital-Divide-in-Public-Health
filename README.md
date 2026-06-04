@@ -4,7 +4,7 @@
 Universal Health Coverage Intelligence in LMIC Nations**
 
 **Journal:** Journal of the American Medical Informatics Association (JAMIA)  
-**Submission Date:** May 2025  
+**Submission Date:** May -June 2025  
 **Authors:** Vinitha T, Prof. Ashok Kumar Harnal  
 **Institution:** FORE School of Management, New Delhi  
 **ORCID (Vinitha T):** 0000-0002-5162-0678  
