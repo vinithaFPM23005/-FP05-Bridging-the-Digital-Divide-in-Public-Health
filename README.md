@@ -21,7 +21,7 @@ Universal Health Coverage Intelligence in LMIC Nations**
 | `data/` | Query-response logs (CSV); knowledge base document index |
 | `config/` | Full parameter files for Config A and Config B (RAGFlow + AnythingLLM) |
 | `docker/` | Docker installation scripts for full reproducibility |
-| `figures/` | All manuscript figures (high-resolution PNG) |
+| `figures/` | All manuscript figures (high-resolution TIFF 300 /600 DPI) |
 
 ---
 
