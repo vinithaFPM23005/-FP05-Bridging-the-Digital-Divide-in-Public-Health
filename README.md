@@ -1,11 +1,16 @@
 # Bridging the Digital Divide in Public Health:A Comparative Evaluation of Retrieval-Augmented Generation for Universal Health Coverage Intelligence in LMIC Nations**
-
-# Journal: Journal of the American Medical Informatics Association (JAMIA)
-# Submission Date: May–June 2025
-# Authors: Vinitha T, Prof. Ashok Kumar Harnal
-# Institution: FORE School of Management, New Delhi
-# ORCID (Vinitha T): 0000-0002-5162-0678
-# ORCID (Prof. Harnal): 0009-0002-1860-7444
+# Journal: 
+Journal of the American Medical Informatics Association (JAMIA)
+# Submission Date: 
+May–June 2025
+# Authors: 
+Vinitha T, Prof. Ashok Kumar Harnal
+# Institution: 
+FORE School of Management, New Delhi
+# ORCID (Vinitha T): 
+0000-0002-5162-0678
+# ORCID (Prof. Harnal): 
+0009-0002-1860-7444
 ---
 # Repository Contents
 | title_page/Final title page including author details, affiliations, and CRediT authorship contributions|
