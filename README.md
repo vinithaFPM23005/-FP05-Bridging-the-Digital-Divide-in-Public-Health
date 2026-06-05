@@ -32,7 +32,7 @@ FORE School of Management, New Delhi
 | data/ | Query–response logs (CSV) and knowledge base document index |
 | config/ | Full parameter configurations for Config A (permissive) and Config B (restrictive) across RAGFlow and AnythingLLM |
 | docker/ | Docker scripts and environment setup files for full reproducibility (see INSTALL.md) |
-| figures/ | All manuscript figures in high-resolution TIFF format (300/600 DPI) |
+| figures/ | All manuscript figures in high-resolution TIFF format (300/600 DPI) in All Tiff Figures folder|
 | Additional_Supplementary/ | Detailed PRISMA framework, conceptual and theoretical analysis, experimental design, statistical outputs, and reproducibility documentation |
 
 ---
